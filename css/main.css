@@ -2222,6 +2222,12 @@ p.thick {
   padding: 20px;
 }
 
+.column3 {
+	float: left;
+	width: 50%;
+	padding: 20px;
+}
+
 /* Clear floats after image containers */
 .row::after {
   content: "";
